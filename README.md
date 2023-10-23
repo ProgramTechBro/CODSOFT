@@ -4,7 +4,7 @@
 
 Welcome to my Web Development Internship Task 1! This repository contains the code for my Portfolio Website, which I created as part of my internship. The website serves as a showcase of my skills, projects, and experiences in the field of web development.
 
-**Repository Link:** [Portfolio Website](https://github.com/your-username/portfolio-website)
+**Repository Link:** [Portfolio Website](https://github.com/ProgramTechBro/Portfolio-Website.git)
 
 ### Features:
 
@@ -25,7 +25,7 @@ Welcome to my Web Development Internship Task 1! This repository contains the co
 
 Welcome to my Web Development Internship Task 2! This repository contains the code for my To-Do List Web App, an essential project where users can create, read, edit, delete, search, and filter tasks. Below are the details of this task:
 
-**Repository Link:** [To-Do List Web App](https://github.com/your-username/todo-list-app)
+**Repository Link:** [To-Do List Web App](https://github.com/ProgramTechBro/To-Do-List.git)
 
 ### Features:
 
@@ -65,7 +65,7 @@ Make sure you have the following installed on your system:
 
 Welcome to my Web Development Internship Task 3! This repository contains the code for my Simple Calculator Web App, a project designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Below are the details of this task:
 
-**Repository Link:** [Simple Calculator Web App](https://github.com/your-username/calculator-app)
+**Repository Link:** [Simple Calculator Web App](https://github.com/ProgramTechBro/Simple-Calculator.git)
 
 ### Features:
 
