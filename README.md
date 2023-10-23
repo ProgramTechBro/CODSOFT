@@ -39,8 +39,6 @@ Welcome to my Web Development Internship Task 2! This repository contains the co
 - CSS3 (Flexbox/Grid for layout)
 - JavaScript (for dynamic interactions)
 - Backend: Node.js with Express.js (for creating APIs)
-- Database: (Mention the database technology if used, e.g., MongoDB)
-- Any additional libraries or tools used for specific functionalities
 
 ## How to Use:
 
