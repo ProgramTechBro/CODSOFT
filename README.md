@@ -51,8 +51,8 @@ Make sure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/ProgramTechBro/To-Do-List.git
+   cd To-Do-List
 
    npm install
    npm start
@@ -79,5 +79,5 @@ Welcome to my Web Development Internship Task 3! This repository contains the co
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/ProgramTechBro/Simple-Calculator.git
+   cd Simple-Calculator
