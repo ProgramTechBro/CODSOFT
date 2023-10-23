@@ -71,7 +71,6 @@ Welcome to my Web Development Internship Task 3! This repository contains the co
 
 - **Basic Arithmetic Operations:** Users can perform addition, subtraction, multiplication, and division calculations.
 - **User-Friendly Interface:** A minimalistic and intuitive design for effortless calculations.
-- **Responsive Layout:** The calculator adapts to different screen sizes, ensuring a seamless experience on various devices.
 
 ### Technologies Used:
 
