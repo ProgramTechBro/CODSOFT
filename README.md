@@ -60,4 +60,28 @@ Make sure you have the following installed on your system:
    npm install
    npm start
    The server will be running at http://localhost:3000.
-   
+
+## Task 3: Simple Calculator Web App
+
+Welcome to my Web Development Internship Task 3! This repository contains the code for my Simple Calculator Web App, a project designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Below are the details of this task:
+
+**Repository Link:** [Simple Calculator Web App](https://github.com/your-username/calculator-app)
+
+### Features:
+
+- **Basic Arithmetic Operations:** Users can perform addition, subtraction, multiplication, and division calculations.
+- **User-Friendly Interface:** A minimalistic and intuitive design for effortless calculations.
+- **Responsive Layout:** The calculator adapts to different screen sizes, ensuring a seamless experience on various devices.
+
+### Technologies Used:
+
+- HTML5
+- CSS3 (Flexbox/Grid for layout)
+- JavaScript (for performing calculations and dynamic interactions)
+
+### How to Use:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/calculator-app.git
+   cd calculator-app
