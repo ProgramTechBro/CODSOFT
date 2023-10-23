@@ -18,8 +18,7 @@ Welcome to my Web Development Internship Task 1! This repository contains the co
 - HTML5
 - CSS3 (including Flexbox and Grid for layout)
 - JavaScript
-- Bootstrap (optional, if used for styling)
-- Any additional libraries or tools used in specific sections of the website
+- Bootstrap 
 
 ## Task 2: To-Do List Web App
 
